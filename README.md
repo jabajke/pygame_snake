@@ -1,3 +1,3 @@
 # pygame_snake
 
-https://garticphone.com/ru/?c=02c2a6ad0a
+https://garticphone.com/en/?c=01824c1c54
